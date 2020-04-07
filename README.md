@@ -1,3 +1,13 @@
+echo "# jobsHouse" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/amirCodes/jobsHouse.git
+git push -u origin master
+                
+                
+                ------------------------------------------------------------------------------------
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
